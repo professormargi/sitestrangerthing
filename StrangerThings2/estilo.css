@@ -1,0 +1,43 @@
+*{
+    color:rgb(12, 105, 98);
+}
+body{
+    background-color: bisque;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ptemporada{
+    color: red;
+}
+#t1{
+    color: green;
+}
+.temp{
+    color: blue;
+    font-size: 15px;
+}
+
+/* #resumo{
+    background-color: aquamarine;
+} */
+
+div{
+    background-color: yellow;
+}
+.divcapitulos{
+    background-color: aqua;
+    width: 150px;
+    height: 200px;
+    display: inline-block;
+}
+
+img{
+    width: 150px;
+    height: 100px;
+}
